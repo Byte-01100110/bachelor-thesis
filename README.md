@@ -1,1 +1,1 @@
-# batchelor-thesis
+# bachelor-thesis
